@@ -1,0 +1,7 @@
+name = input("NAME: ")
+age = input("AGE: ")
+department = input("DEPARTMENT: ")
+
+print(name)
+print(age)
+print(department)
